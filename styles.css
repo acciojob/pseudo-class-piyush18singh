@@ -4,13 +4,13 @@
 }
 
 #container::before{
-	 content: "👉 Special Text (Before)";
+	 content: "Before Element";
 	font-size:20px;
 	color:#f00;
 }
 
 #container::after{
-	 content: "👉 Special Text (after)";
+	 content: "After Element";
 	font-size:20px;
 	color:#f00;
 }
